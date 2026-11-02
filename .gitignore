@@ -1,0 +1,13 @@
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Compiled files
+out/
+target/
+build/
+*.class
+
+# Secrets
+.env
